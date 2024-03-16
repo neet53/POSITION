@@ -1,0 +1,8 @@
+.bjp{
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  position: fixed;
+  left: 20px;
+  top: 50px;
+}

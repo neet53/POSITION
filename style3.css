@@ -1,0 +1,8 @@
+.jmm{
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    position: sticky;
+    left: 50px;
+    top: 50px;
+}
